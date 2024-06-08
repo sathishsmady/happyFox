@@ -8,10 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="HelpDeskProductPageObject" />
         <module name="HelpDeskProductTests" />
+        <module name="HelpDeskCommonMethods" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="HelpDeskCommonMethods" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>

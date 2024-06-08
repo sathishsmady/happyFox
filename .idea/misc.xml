@@ -7,6 +7,7 @@
         <option value="$USER_HOME$/Downloads/HappyFox Test Automation Task Java /HelpDeskCommonMethods/pom.xml" />
         <option value="$USER_HOME$/Downloads/HappyFox Test Automation Task Java /HelpDeskProductPageObject/pom.xml" />
         <option value="$USER_HOME$/Downloads/HappyFox Test Automation Task Java /HelpDeskProductTests/pom.xml" />
+        <option value="$PROJECT_DIR$/HelpDeskCommonMethods/pom.xml" />
       </list>
     </option>
   </component>
